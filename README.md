@@ -1,1 +1,2 @@
-# simple.calculator
+# S-Calculator
+Simple Calculator

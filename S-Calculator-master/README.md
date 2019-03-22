@@ -1,2 +1,0 @@
-# S-Calculator
-Simple Calculator
